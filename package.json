@@ -1,0 +1,21 @@
+{
+  "name": "night-begins-to-shine",
+  "displayName": "NBS(Night Begins to Shine)",
+  "description": "NBS(Night Begins to Shine!)",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.103.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "NBS(Night Begins to Shine)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/NBS(Night Begins to Shine)-color-theme.json"
+      }
+    ]
+  }
+}
