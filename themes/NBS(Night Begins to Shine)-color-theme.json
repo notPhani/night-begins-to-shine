@@ -573,7 +573,7 @@
 				"markup.raw.block.fenced.markdown"
 			],
 			"settings": {
-				"foreground": "#0000000050"
+				"foreground": "#00000050"
 			}
 		},
 		{
@@ -582,7 +582,7 @@
 				"punctuation.definition.fenced.markdown"
 			],
 			"settings": {
-				"foreground": "#0000000050"
+				"foreground": "#00000050"
 			}
 		},
 		{
